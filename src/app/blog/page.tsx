@@ -1,5 +1,5 @@
 // This is how to handle routing in nextjs 
-
+import { Metadata } from "next"
 //this is metadata for blog paga
 export const metadata: Metadata = {
     title: {
